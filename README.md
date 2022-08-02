@@ -1,4 +1,3 @@
-<img align="right" src="https://img.qinhongzs.com/slide/2022/01/03/3925469033769037570.png" alt="禅" width="285px" height="360px" />
 
 **所谓热爱，就是坚持和投入。**
 <br />
