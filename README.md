@@ -11,8 +11,10 @@
 晓镜但愁云鬓改，夜吟应觉月光寒。<br />
 蓬山此去无多路，青鸟殷勤为探看。
 
+<!-- ![](https://github-readme-stats.vercel.app/api?username=gspgsp&count_private=true&show_icons=true&theme=tokyonight) -->
 
-![](https://github-readme-stats.vercel.app/api?username=gspgsp&show_icons=true&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api?username=gspgsp&count_private=true&show_icons=true)
 
 
 ![](https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=gspgsp&svg.width=1012&svg.height=190)
