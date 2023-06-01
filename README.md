@@ -3,12 +3,9 @@
 
 《无题》
 
-[唐]李商隐
-
-相见时难别亦难，东风无力百花残。<br />
-春蚕到死丝方尽，蜡炬成灰泪始干。<br />
-晓镜但愁云鬓改，夜吟应觉月光寒。<br />
-蓬山此去无多路，青鸟殷勤为探看。
+早年同窗始相知，三载瞬逝情却萌。<br />
+年少不知愁滋味，犹读红豆生南国。<br />
+别离方知相思苦，心田红豆根以生。
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=gspgsp&count_private=true&show_icons=true&theme=tokyonight) -->
 
