@@ -10,7 +10,7 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=gspgsp&count_private=true&show_icons=true&theme=tokyonight) -->
 
 
-![](https://github-readme-stats.vercel.app/api?username=gspgsp&count_private=true&show_icons=true&theme=highcontrast)
+<!--![](https://github-readme-stats.vercel.app/api?username=gspgsp&count_private=true&show_icons=true&theme=highcontrast) -->
 
 
 ![](https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=gspgsp&svg.width=1012&svg.height=190)
