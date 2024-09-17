@@ -14,4 +14,5 @@
 </div>
 <br/>
 <br/>
-[![gspgsp's GitHub stats](https://github-readme-stats.vercel.app/api?username=gspgsp)](https://github.com/anuraghazra/github-readme-stats)
+
+![gspgsp's GitHub stats](https://github-readme-stats.vercel.app/api?username=gspgsp&show_icons=true)
