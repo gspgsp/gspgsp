@@ -13,7 +13,7 @@
 别离方知相思苦，心田红豆根以生。<br/>
 <br/>
 <br/>
-  <p>🛠️ 技术栈</p>
+<p>🛠️ 技术栈</p>
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
